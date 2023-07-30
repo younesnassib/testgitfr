@@ -13,8 +13,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("test","test third")
 
 
-        Log.d("test","test one recette")
-
 
     }
 }
