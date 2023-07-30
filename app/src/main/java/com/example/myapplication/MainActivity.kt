@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
+        Log.d("test","recette ")
 
     }
 }
