@@ -14,5 +14,10 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("test","master ")
 
+
+
+        Log.d("test","hola ")
+
+
     }
 }
