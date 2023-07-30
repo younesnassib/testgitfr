@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("test","test second")
         Log.d("test","test third")
 
-
+        Log.d("test","recette ")
 
     }
 }
