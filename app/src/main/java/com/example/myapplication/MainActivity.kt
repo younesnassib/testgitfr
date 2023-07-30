@@ -8,17 +8,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         super.onCreate(savedInstanceState)
-        super.onCreate(savedInstanceState)
-        super.onCreate(savedInstanceState)
-        super.onCreate(savedInstanceState)
-
-        setContentView(R.layout.activity_main)
-        setContentView(R.layout.activity_main)
-        setContentView(R.layout.activity_main)
-        setContentView(R.layout.activity_main)
-
-        Log.d("hldhd","jdidid")
-
 
     }
 }
