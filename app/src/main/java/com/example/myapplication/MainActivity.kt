@@ -17,6 +17,9 @@ class MainActivity : AppCompatActivity() {
 
 
         Log.d("test","hola ")
+        Log.d("test","hola ")
+        Log.d("test","comit between ")
+
 
 
 
